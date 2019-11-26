@@ -87,7 +87,6 @@ def main():
 
 if __name__ == '__main__':
     try:
-        is_supported_os()
         main()
     except UnsupportedException as ue:
         log.error(ue)
