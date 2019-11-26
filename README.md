@@ -2,7 +2,7 @@
 
 ## About
 
-This application uses pynput. Collect keyboard and mouse activity.
+This application uses [pynput](https://github.com/moses-palmer/pynput). Collect keyboard and mouse activity.
 
 ## Enviroment
 
