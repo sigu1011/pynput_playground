@@ -24,7 +24,7 @@ When the app starts, ``data.csv`` is generated, and the keyboard and mouse activ
 ```
 # data.csv
 date,user_name,alphanumeric_key_count,special_key_count,keyboard_activity,mouse_movement,mouse_click_count,mouse_scroll_count,mouse_activity,active_app_name
-2019-11-26 17:19:10,admin,62,2,64,0,0,0,0,jetbrains-pycharm-ce
+2019-11-26 17:59:26,admin,62,2,64,0,0,0,0,jetbrains-pycharm-ce
 2019-11-26 17:59:36,admin,0,0,0,239,2,7,248,Firefox
 2019-11-26 17:59:46,admin,2,2,4,120,4,0,124,Gnome-terminal
 ...
