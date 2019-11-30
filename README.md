@@ -7,12 +7,13 @@ This application uses [pynput](https://github.com/moses-palmer/pynput). Collect 
 ## Enviroment
 
 * ubuntu 18.04
+  * apt install xdotool
 * python 3.6
-* pip install -r requirements.txt
+  * pip install -r requirements.txt
 
 ## How to use
 
-* start
+* Start
 
 ```
 python main.py
@@ -30,7 +31,7 @@ date,user_name,alphanumeric_key_count,special_key_count,keyboard_activity,mouse_
 ...
 ```
 
-* stop
+* Stop
 
 ```
 # Stop by kill
